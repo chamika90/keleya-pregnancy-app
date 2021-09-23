@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CircleView should match snapshot 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "justifyContent": "center",
+        "margin": 5,
+      },
+      Object {
+        "backgroundColor": "#000000",
+        "borderRadius": 5,
+        "height": 10,
+        "width": 10,
+      },
+    ]
+  }
+/>
+`;
